@@ -20,9 +20,7 @@ A **full-stack MERN project** that lets users explore food-partner videos in a v
 * **Media Handling:** ImageKit.io
 * **Authentication:** JWT tokens
 
-## 🔹 Screenshots / Demo
 
-> *(Optional: Add screenshots of feed, profile page, or demo GIF here)*
 
 ## 🔹 Installation
 
@@ -36,7 +34,6 @@ A **full-stack MERN project** that lets users explore food-partner videos in a v
 2. **Install dependencies**
 
    ```bash
-   npm install
    cd frontend
    npm install
    ```
@@ -62,7 +59,6 @@ A **full-stack MERN project** that lets users explore food-partner videos in a v
    npm start
    ```
 
-5. Open [http://localhost:3000](http://localhost:3000) to view the app.
 
 ## 🔹 Future Improvements
 
