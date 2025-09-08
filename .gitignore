@@ -1,0 +1,22 @@
+# Node dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+
+# Build folders
+dist/
+build/
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Videos folder (if you don't want to push large video files)
+videos/
