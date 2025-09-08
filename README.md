@@ -34,8 +34,9 @@ A **full-stack MERN project** that lets users explore food-partner videos in a v
 2. **Install dependencies**
 
    ```bash
-   cd frontend
    npm install
+  cd frontend
+  npm install
    ```
 
 3. **Set environment variables**
