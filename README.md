@@ -21,46 +21,6 @@ A **full-stack MERN project** that lets users explore food-partner videos in a v
 * **Authentication:** JWT tokens
 
 
-
-## 🔹 Installation
-
-1. **Clone the repository**
-
-   ```bash
-   git clone <your-repo-url>
-   cd <project-folder>
-   ```
-
-2. **Install dependencies**
-
-   ```bash
-   npm install
-  cd frontend
-  npm install
-   ```
-
-3. **Set environment variables**
-   Create a `.env` file in the backend folder with:
-
-   ```
-   MONGO_URI=<your-mongo-db-uri>
-   JWT_SECRET=<your-jwt-secret>
-   IMAGEKIT_PUBLIC_KEY=<your-imagekit-public-key>
-   IMAGEKIT_PRIVATE_KEY=<your-imagekit-private-key>
-   IMAGEKIT_URL_ENDPOINT=<your-imagekit-endpoint>
-   ```
-
-4. **Run the project**
-
-   ```bash
-   # Backend
-   npm run dev
-
-   # Frontend (in separate terminal)
-   npm start
-   ```
-
-
 ## 🔹 Future Improvements
 
 * Add search and filter for food items
